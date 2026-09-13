@@ -1,287 +1,368 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Rugved%20Jalit&fontSize=62&fontColor=ffffff&fontAlignY=34&desc=Computer%20Vision%20%C2%B7%20Edge%20Inference%20%C2%B7%20LLM%20Systems&descAlignY=56&descSize=18&animation=fadeIn" alt="header" />
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Computer+Vision+%26+Edge+AI;YOLO+%7C+TensorRT+%7C+DeepStream+%7C+Triton;LLM+Chatbots+%26+Agentic+Pipelines;IoT+%2B+Embedded+Systems;Published+AI+Researcher&font=Fira%20Code&center=true&width=620&height=50&duration=3000&pause=700&color=36BCF7&weight=600&size=22" alt="typing" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:312E81,100:6366F1&height=3&section=header" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rugved-jalit-638a35268"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:rugvedjalit@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://scholar.google.com/citations?user=2L4rZ6gAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-<a href="https://orcid.org/0000-0002-1646-4083"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-<a href="https://www.researchgate.net/profile/Rugved-Jalit"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" /></a>
+# Rugved Jalit
+
+### Computer Vision Engineer &nbsp;·&nbsp; Edge AI &nbsp;·&nbsp; LLM Systems
+
+<p>
+<img src="https://img.shields.io/badge/Computer_Vision-6366F1?style=flat&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Edge_Inference-8B5CF6?style=flat&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LLM_%26_Agents-22D3EE?style=flat&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/IoT-A78BFA?style=flat&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Freelance-475569?style=flat&labelColor=0D1117" />
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/rugved-jalit-638a35268"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6366F1" /></a>
+<a href="mailto:rugvedjalit@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=6366F1" /></a>
+<a href="https://scholar.google.com/citations?user=2L4rZ6gAAAAJ"><img src="https://img.shields.io/badge/Scholar-0D1117?style=for-the-badge&logo=googlescholar&logoColor=6366F1" /></a>
+<a href="https://orcid.org/0000-0002-1646-4083"><img src="https://img.shields.io/badge/ORCID-0D1117?style=for-the-badge&logo=orcid&logoColor=6366F1" /></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,55:312E81,100:0D1117&height=3&section=header" />
+
+</div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rugvedjalit&label=Profile%20Views&color=36BCF7&style=flat-square" />
-<img src="https://img.shields.io/github/followers/rugvedjalit?label=Followers&style=flat-square&color=36BCF7" />
-
-</div>
-
-<!-- ==================== ABOUT ==================== -->
-
-##  `>` About
-
-I work across two connected areas: **computer vision systems that run in real time on real hardware**, and **LLM chatbots and agentic pipelines**.
-
-On the vision side, that means object detection with **YOLO**, then the part most projects skip — optimizing and deploying it. I work with **TensorRT** for accelerated inference, **DeepStream** for multi-stream video analytics, **NVIDIA Triton** for model serving, and **OpenVINO** for cross-platform deployment. Alongside this I build **IoT and embedded systems**, so detections and sensor readings feed into something that acts on them.
-
-On the language side, I've contributed to **LLM chatbots and agentic pipelines** — systems where models coordinate tools and multi-step reasoning rather than just answering prompts.
-
-I'm also a **published AI researcher**, with peer-reviewed conference papers spanning agricultural AI, generative AI and LLMs, and AI in healthcare.
-
----
-
-<!-- ==================== STACK ==================== -->
-
-<div align="center">
-
-##  Tech Stack
-
-</div>
+<!-- ═══════════════════════════ INTRO ═══════════════════════════ -->
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="62%" valign="top">
 
-###  Computer Vision
-<p>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/CNN_Architectures-FF6F00?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
+I work on the half of computer vision most projects never reach — **taking a trained model and making it run fast, on real hardware, on real video.**
 
-###  Inference & Deployment
-<p>
-<img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/Triton_Server-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenVINO-0068B5?style=for-the-badge&logo=intel&logoColor=white" />
-</p>
+Detection with **YOLO**, then the deployment layer that decides whether any of it ships: **CUDA** and **TensorRT** for acceleration, **DeepStream** for multi-stream analytics, **Triton** for serving, **OpenVINO** for CPU and VPU targets.
+
+The other half is **LLM systems** — self-hosted serving with **vLLM** and **Ollama** on the **Hugging Face** ecosystem, powering chatbots and agentic pipelines that coordinate tools, retrieval and multi-step reasoning.
+
+I deliver this work **freelance**, and publish research alongside it.
 
 </td>
-<td width="50%" valign="top">
+<td width="38%" valign="top">
 
-###  LLM & Agentic Systems
-<p>
-<img src="https://img.shields.io/badge/LLM_Chatbots-412991?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Agentic_Pipelines-8A2BE2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-5E60CE?style=for-the-badge&logoColor=white" />
-</p>
-
-###  Languages, IoT & Tools
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/IoT-1BA0D7?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
+<table>
+<tr><td><b>Focus</b></td><td>Real-time vision · edge inference</td></tr>
+<tr><td><b>Also</b></td><td>LLM serving · agentic pipelines</td></tr>
+<tr><td><b>Hardware</b></td><td>GPU · CPU/VPU · microcontrollers</td></tr>
+<tr><td><b>Research</b></td><td>4 peer-reviewed papers</td></tr>
+<tr><td><b>Working</b></td><td>Freelance · open to collaboration</td></tr>
+</table>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- ==================== PIPELINE ==================== -->
+<!-- ═══════════════════════════ CAPABILITIES ═══════════════════════════ -->
 
-<div align="center">
+<div align="center"><h2>What I Build</h2></div>
 
-##  Vision Deployment Stack
+<table>
+<tr>
+<td width="33%" valign="top">
 
-</div>
+#### Real-Time Vision
+YOLO detection pipelines accelerated with CUDA and TensorRT, running multi-stream through DeepStream and on CPU/VPU via OpenVINO.
+
+<sub><code>YOLO</code> <code>CUDA</code> <code>TensorRT</code> <code>DeepStream</code></sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### Model Serving
+Production inference behind application APIs — Triton for vision models, vLLM for language models, with versioning and concurrent request handling.
+
+<sub><code>Triton</code> <code>vLLM</code> <code>Docker</code></sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### LLM & Agents
+Self-hosted models via Ollama and vLLM on the Hugging Face ecosystem, driving chatbots and multi-step agentic workflows.
+
+<sub><code>Ollama</code> <code>HuggingFace</code> <code>Agents</code></sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+#### Edge Deployment
+Getting models onto constrained targets without losing the accuracy that made them worth deploying.
+
+<sub><code>OpenVINO</code> <code>TensorRT</code> <code>ONNX</code></sub>
+
+</td>
+<td valign="top">
+
+#### IoT & Embedded
+Sensor and microcontroller systems wired into inference pipelines, so a detection becomes an action rather than a log line.
+
+<sub><code>Arduino</code> <code>C++</code> <code>Firebase</code></sub>
+
+</td>
+<td valign="top">
+
+#### Applied Research
+Peer-reviewed work on agricultural AI, generative AI and LLMs, and AI in healthcare.
+
+<sub><code>CNN</code> <code>NLP</code> <code>Deep Learning</code></sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
+
+<div align="center"><h2>Stack</h2></div>
+
+<table>
+<tr>
+<td width="20%"><b>Vision</b></td>
+<td>
+<img src="https://img.shields.io/badge/YOLO-0D1117?style=flat-square&labelColor=0D1117&color=6366F1" />
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=6366F1&labelColor=0D1117&color=6366F1" />
+<img src="https://img.shields.io/badge/CNN-0D1117?style=flat-square&labelColor=0D1117&color=6366F1" />
+</td>
+</tr>
+<tr>
+<td><b>Acceleration</b></td>
+<td>
+<img src="https://img.shields.io/badge/CUDA-0D1117?style=flat-square&logo=nvidia&logoColor=76B900&labelColor=0D1117&color=76B900" />
+<img src="https://img.shields.io/badge/TensorRT-0D1117?style=flat-square&logo=nvidia&logoColor=76B900&labelColor=0D1117&color=76B900" />
+<img src="https://img.shields.io/badge/DeepStream-0D1117?style=flat-square&logo=nvidia&logoColor=76B900&labelColor=0D1117&color=76B900" />
+<img src="https://img.shields.io/badge/OpenVINO-0D1117?style=flat-square&logo=intel&logoColor=0068B5&labelColor=0D1117&color=0068B5" />
+</td>
+</tr>
+<tr>
+<td><b>Serving</b></td>
+<td>
+<img src="https://img.shields.io/badge/Triton-0D1117?style=flat-square&logo=nvidia&logoColor=76B900&labelColor=0D1117&color=76B900" />
+<img src="https://img.shields.io/badge/vLLM-0D1117?style=flat-square&labelColor=0D1117&color=8B5CF6" />
+<img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=8B5CF6&labelColor=0D1117&color=8B5CF6" />
+<img src="https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=8B5CF6&labelColor=0D1117&color=8B5CF6" />
+</td>
+</tr>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=22D3EE&labelColor=0D1117&color=22D3EE" />
+<img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=22D3EE&labelColor=0D1117&color=22D3EE" />
+<img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=22D3EE&labelColor=0D1117&color=22D3EE" />
+</td>
+</tr>
+<tr>
+<td><b>Edge & IoT</b></td>
+<td>
+<img src="https://img.shields.io/badge/Arduino-0D1117?style=flat-square&logo=arduino&logoColor=A78BFA&labelColor=0D1117&color=A78BFA" />
+<img src="https://img.shields.io/badge/IoT-0D1117?style=flat-square&labelColor=0D1117&color=A78BFA" />
+<img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=A78BFA&labelColor=0D1117&color=A78BFA" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════ PIPELINE ═══════════════════════════ -->
+
+<div align="center"><h2>Deployment Pipeline</h2></div>
 
 ```mermaid
 flowchart LR
-    A[Video Input] --> B[YOLO Detection]
-    B --> C[TensorRT Optimization]
-    C --> D{Deployment Target}
-    D -->|Multi-stream video| E[DeepStream]
-    D -->|Model serving| F[Triton Inference Server]
-    D -->|Cross-platform edge| G[OpenVINO]
-    E --> H[IoT / Application Layer]
+    A["Video<br/><sub>n streams</sub>"] --> B["YOLO<br/><sub>detection</sub>"]
+    B --> C["CUDA · TensorRT<br/><sub>fp16 / int8</sub>"]
+    C --> D{" "}
+    D --> E["DeepStream<br/><sub>multi-stream</sub>"]
+    D --> F["Triton<br/><sub>serving</sub>"]
+    D --> G["OpenVINO<br/><sub>cpu · vpu</sub>"]
+    E --> H["Application<br/><sub>actions · alerts</sub>"]
     F --> H
     G --> H
 
-    style A fill:#203A43,stroke:#36BCF7,color:#fff
-    style C fill:#76B900,stroke:#fff,color:#000
-    style E fill:#76B900,stroke:#fff,color:#000
-    style F fill:#76B900,stroke:#fff,color:#000
-    style G fill:#0068B5,stroke:#fff,color:#fff
-    style H fill:#203A43,stroke:#36BCF7,color:#fff
+    style A fill:#1E1B4B,stroke:#6366F1,stroke-width:2px,color:#E0E7FF
+    style B fill:#1E1B4B,stroke:#6366F1,stroke-width:2px,color:#E0E7FF
+    style C fill:#312E81,stroke:#8B5CF6,stroke-width:2px,color:#E0E7FF
+    style D fill:#0D1117,stroke:#475569,stroke-width:1px,color:#94A3B8
+    style E fill:#1E1B4B,stroke:#8B5CF6,stroke-width:2px,color:#E0E7FF
+    style F fill:#1E1B4B,stroke:#8B5CF6,stroke-width:2px,color:#E0E7FF
+    style G fill:#1E1B4B,stroke:#8B5CF6,stroke-width:2px,color:#E0E7FF
+    style H fill:#312E81,stroke:#22D3EE,stroke-width:2px,color:#E0E7FF
 ```
 
----
+<br/>
 
-<!-- ==================== RESEARCH ==================== -->
+<!-- ═══════════════════════════ RESEARCH ═══════════════════════════ -->
 
 <div align="center">
 
-##  Published Research
+<h2>Research</h2>
 
-<a href="https://scholar.google.com/citations?user=2L4rZ6gAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-View_Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-<a href="https://orcid.org/0000-0002-1646-4083"><img src="https://img.shields.io/badge/ORCID-0000--0002--1646--4083-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=2L4rZ6gAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-0D1117?style=flat-square&logo=googlescholar&logoColor=6366F1&labelColor=0D1117&color=6366F1" /></a>
+<a href="https://orcid.org/0000-0002-1646-4083"><img src="https://img.shields.io/badge/ORCID_0000--0002--1646--4083-0D1117?style=flat-square&logo=orcid&logoColor=6366F1&labelColor=0D1117&color=6366F1" /></a>
 
 </div>
 
 <br/>
 
-| Paper | Role | Venue | DOI |
-| :--- | :--- | :--- | :--- |
-| **Harnessing AI and Machine Learning for Early Identification and Mitigation of Crop Diseases in a Changing Agricultural Landscape** | First author | AIP Conf. Proc. 3188 (2024) | [10.1063/5.0240431](https://doi.org/10.1063/5.0240431) |
-| **Unlocking the Potential of Generative AI in Large Language Models** | Co-author | Conference Paper (2024) | [ResearchGate](https://www.researchgate.net/profile/Rugved-Jalit) |
-| **Artificial Intelligence in Rare Diseases: A Review of Recent Advances in Diagnosis and Treatment** | Co-author | AIP Conf. Proc. 3188 (2024) | [10.1063/5.0240432](https://doi.org/10.1063/5.0240432) |
-| **Empowering Healthcare with NLP: Revolutionizing Medical Record Analysis, Patient Monitoring and Drug Discovery** | Co-author | AIP Conf. Proc. 3188 (2024) | [10.1063/5.0240706](https://doi.org/10.1063/5.0240706) |
+<table>
+<tr>
+<td width="70%"><a href="https://doi.org/10.1063/5.0240431"><b>Harnessing AI and Machine Learning for Early Identification and Mitigation of Crop Diseases</b></a></td>
+<td width="16%"><img src="https://img.shields.io/badge/First_author-6366F1?style=flat-square&labelColor=0D1117" /></td>
+<td width="14%"><sub>AIP 3188 · 2024</sub></td>
+</tr>
+<tr>
+<td><a href="https://www.researchgate.net/profile/Rugved-Jalit"><b>Unlocking the Potential of Generative AI in Large Language Models</b></a></td>
+<td><img src="https://img.shields.io/badge/Co--author-475569?style=flat-square&labelColor=0D1117" /></td>
+<td><sub>Conference · 2024</sub></td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.1063/5.0240432"><b>Artificial Intelligence in Rare Diseases: A Review of Recent Advances</b></a></td>
+<td><img src="https://img.shields.io/badge/Co--author-475569?style=flat-square&labelColor=0D1117" /></td>
+<td><sub>AIP 3188 · 2024</sub></td>
+</tr>
+<tr>
+<td><a href="https://doi.org/10.1063/5.0240706"><b>Empowering Healthcare with NLP: Record Analysis, Monitoring & Drug Discovery</b></a></td>
+<td><img src="https://img.shields.io/badge/Co--author-475569?style=flat-square&labelColor=0D1117" /></td>
+<td><sub>AIP 3188 · 2024</sub></td>
+</tr>
+</table>
 
----
+<br/>
 
-<!-- ==================== PROJECTS ==================== -->
+<!-- ═══════════════════════════ FREELANCE ═══════════════════════════ -->
+
+<div align="center"><h2>Freelance & Client Work</h2></div>
+
+> Delivered for clients as a freelancer. Much of it is proprietary or under NDA, so it's described by capability rather than by client, codebase or data.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Real-time vision deployment
+YOLO pipelines optimized with CUDA and TensorRT, deployed through DeepStream for multi-stream analytics and OpenVINO for CPU and edge targets.
+
+</td>
+<td width="50%" valign="top">
+
+#### Model serving
+Production inference with Triton and vLLM — multi-model hosting, versioning and concurrent request handling behind application APIs.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+#### Self-hosted LLM systems
+Private model deployment with Ollama and vLLM on the Hugging Face ecosystem, powering chatbots and agentic workflows.
+
+</td>
+<td valign="top">
+
+#### IoT & embedded integration
+Sensor and microcontroller systems feeding inference pipelines and driving downstream actions and alerts.
+
+</td>
+</tr>
+</table>
+
+<!--
+─────────────────────────────────────────────────────────────
+ OPTIONAL — add permitted metrics above. Numbers make NDA work
+ credible without revealing anything:
+   "N concurrent streams at M FPS on a single GPU"
+   "Reduced inference latency by X% via TensorRT"
+ Only add figures you are actually allowed to share.
+─────────────────────────────────────────────────────────────
+-->
+
+<br/>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 
 <div align="center">
 
-##  Featured Repositories
+<h2>Open Source</h2>
 
 <a href="https://github.com/rugvedjalit/AI-based-Drone-for-Precision-Agriculture">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rugvedjalit&repo=AI-based-Drone-for-Precision-Agriculture&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=76B900" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rugvedjalit&repo=AI-based-Drone-for-Precision-Agriculture&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=8B949E&icon_color=8B5CF6" />
 </a>
 <a href="https://github.com/rugvedjalit/Deep-Learning-based-Crop-Classification-using-CNN-Architecture">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rugvedjalit&repo=Deep-Learning-based-Crop-Classification-using-CNN-Architecture&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=76B900" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rugvedjalit&repo=Deep-Learning-based-Crop-Classification-using-CNN-Architecture&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=8B949E&icon_color=8B5CF6" />
 </a>
 <a href="https://github.com/rugvedjalit/Acridinium-Ester-based-Bacterial-Detection-with-Arduino">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rugvedjalit&repo=Acridinium-Ester-based-Bacterial-Detection-with-Arduino&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=76B900" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rugvedjalit&repo=Acridinium-Ester-based-Bacterial-Detection-with-Arduino&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=8B949E&icon_color=8B5CF6" />
 </a>
 <a href="https://github.com/rugvedjalit/Machine-Learning-Practice">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rugvedjalit&repo=Machine-Learning-Practice&theme=react&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=76B900" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rugvedjalit&repo=Machine-Learning-Practice&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=8B949E&icon_color=8B5CF6" />
 </a>
 
 </div>
 
 <br/>
 
-<details open>
-<summary><h3> Project Breakdown</h3></summary>
+<details>
+<summary><b>All repositories</b></summary>
 
 <br/>
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[AI-based Drone for Precision Agriculture](https://github.com/rugvedjalit/AI-based-Drone-for-Precision-Agriculture)** | AI drone for crop monitoring, vegetation analysis and soil mapping, using CNN for crop health assessment and Firebase for data management. | `CNN` `Firebase` `UAV` |
-| **[Crop Classification using CNN](https://github.com/rugvedjalit/Deep-Learning-based-Crop-Classification-using-CNN-Architecture)** | Convolutional network classifying crop health from imagery, distinguishing healthy crops from those affected by viral or bacterial disease. | `Deep Learning` `Jupyter` |
-| **[Acridinium Ester Bacterial Detection](https://github.com/rugvedjalit/Acridinium-Ester-based-Bacterial-Detection-with-Arduino)** | Arduino-based system detecting bacterial presence using Acridinium Ester chemiluminescence. | `C++` `Arduino` `Biosensing` |
-| **[Linear Regression — Car Price Prediction](https://github.com/rugvedjalit/Linear-Regression)** | Predicts car prices from a US vehicle dataset using mileage, model year and brand as features. | `Regression` `Python` |
-| **[Machine Learning Practice](https://github.com/rugvedjalit/Machine-Learning-Practice)** | Notebook collection of practice projects and exercises across machine learning techniques. | `Jupyter` `Python` |
+| **[AI Drone for Precision Agriculture](https://github.com/rugvedjalit/AI-based-Drone-for-Precision-Agriculture)** | Crop monitoring, vegetation analysis and soil mapping — CNN for crop health assessment, Firebase for data management. | `CNN` `Firebase` `UAV` |
+| **[Crop Classification — CNN](https://github.com/rugvedjalit/Deep-Learning-based-Crop-Classification-using-CNN-Architecture)** | Classifies crop health from imagery, separating healthy crops from viral and bacterial disease states. | `Deep Learning` `Jupyter` |
+| **[Acridinium Ester Bacterial Detection](https://github.com/rugvedjalit/Acridinium-Ester-based-Bacterial-Detection-with-Arduino)** | Arduino system detecting bacterial presence via chemiluminescence. | `C++` `Arduino` |
+| **[Car Price Prediction](https://github.com/rugvedjalit/Linear-Regression)** | Regression on a US vehicle dataset using mileage, model year and brand. | `Regression` `Python` |
+| **[ML Practice](https://github.com/rugvedjalit/Machine-Learning-Practice)** | Notebook collection across machine learning techniques. | `Jupyter` `Python` |
 
 </details>
 
----
+<br/>
 
-<!-- ==================== NDA WORK ==================== -->
+<!-- ═══════════════════════════ ACTIVITY ═══════════════════════════ -->
 
 <div align="center">
 
-##  Work Not Shown Here
+<h2>Activity</h2>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rugvedjalit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=8B949E&icon_color=8B5CF6" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugvedjalit&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=8B949E" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rugvedjalit&bg_color=0D1117&color=8B949E&line=6366F1&point=22D3EE&area=true&area_color=312E81&hide_border=true" />
 
 </div>
-
-> A significant part of my work — real-time vision deployments, LLM and agentic systems, and IoT integrations — is **proprietary or under NDA** and can't be published. Summarised below by capability rather than by client or codebase.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-###  Real-Time Vision Deployment
-YOLO-based detection pipelines optimized with **TensorRT** and deployed through **DeepStream** for multi-stream video analytics, and **OpenVINO** for CPU/edge targets.
-
-<sub>`YOLO` `TensorRT` `DeepStream` `OpenVINO`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-###  Model Serving at Scale
-Production inference serving with **NVIDIA Triton** — multi-model hosting, versioning, and concurrent request handling behind application APIs.
-
-<sub>`Triton` `Python` `Docker`</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-###  LLM Chatbots & Agentic Pipelines
-Conversational systems and multi-step agentic workflows where models coordinate tools, retrieval, and reasoning rather than single-turn responses.
-
-<sub>`LLM` `Agentic Pipelines` `NLP`</sub>
-
-</td>
-<td width="50%" valign="top">
-
-###  IoT & Embedded Integration
-Sensor and microcontroller systems wired into inference pipelines, so detections and readings drive downstream actions and alerts.
-
-<sub>`IoT` `Arduino` `C++` `Firebase`</sub>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<sub> Happy to discuss this work in detail — <a href="https://www.linkedin.com/in/rugved-jalit-638a35268">reach out on LinkedIn</a></sub>
-
-</div>
-
-<!--
-=====================================================================
- OPTIONAL: strengthen the section above with permitted metrics.
- Numbers make NDA work credible without revealing anything.
- Examples of what is usually safe to state:
-   "Sustained N concurrent streams at M FPS on a single GPU"
-   "Reduced inference latency by X% via TensorRT optimization"
-   "Served N models concurrently through Triton"
-   "Deployed across N edge devices in production"
- Only add figures you are actually permitted to share.
-=====================================================================
--->
-
----
-
-<!-- ==================== STATS ==================== -->
-
-<div align="center">
-
-##  GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rugvedjalit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=react&bg_color=0D1117&title_color=36BCF7&icon_color=76B900" />
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=rugvedjalit&hide_border=true&theme=react&background=0D1117&ring=36BCF7&fire=76B900&currStreakLabel=36BCF7" />
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugvedjalit&layout=compact&langs_count=10&hide_border=true&theme=react&bg_color=0D1117&title_color=36BCF7" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rugvedjalit&bg_color=0D1117&color=36BCF7&line=76B900&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-<!-- ==================== CONNECT ==================== -->
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 
 <div align="center">
 
-##  Connect
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:312E81,100:6366F1&height=3&section=header" />
 
-Open to collaboration on **computer vision**, **edge deployment**, **LLM and agentic systems**, and **applied research**.
+<br/>
 
-<a href="https://www.linkedin.com/in/rugved-jalit-638a35268"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:rugvedjalit@gmail.com"><img src="https://img.shields.io/badge/rugvedjalit@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://scholar.google.com/citations?user=2L4rZ6gAAAAJ"><img src="https://img.shields.io/badge/Read_My_Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+### Available for freelance and collaboration
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer" />
+Computer vision · edge deployment · LLM and agentic systems · applied research
+
+<br/>
+
+<a href="https://www.linkedin.com/in/rugved-jalit-638a35268"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
+<a href="mailto:rugvedjalit@gmail.com"><img src="https://img.shields.io/badge/rugvedjalit@gmail.com-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
+<a href="https://scholar.google.com/citations?user=2L4rZ6gAAAAJ"><img src="https://img.shields.io/badge/Research-22D3EE?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rugvedjalit&label=Profile+views&color=6366F1&style=flat-square" />
 
 </div>
