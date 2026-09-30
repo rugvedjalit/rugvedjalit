@@ -1,4 +1,4 @@
-﻿<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• HERO â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
 
 <img width="100%" src="assets/profile.jpg" alt="Rugved Jalit" />
@@ -9,7 +9,7 @@
 
 # Rugved Jalit
 
-### Computer Vision Engineer &nbsp;Â·&nbsp; Edge AI &nbsp;Â·&nbsp; LLM Systems
+### Computer Vision Engineer &nbsp;·&nbsp; Edge AI &nbsp;·&nbsp; LLM Systems
 
 <p>
 <img src="https://img.shields.io/badge/Computer_Vision-6366F1?style=flat&labelColor=0D1117" />
@@ -32,17 +32,17 @@
 
 <br/>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• INTRO â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════ INTRO ═══════════════════════════ -->
 
 <table>
 <tr>
 <td width="62%" valign="top">
 
-I work on the half of computer vision most projects never reach â€” **taking a trained model and making it run fast, on real hardware, on real video.**
+I work on the half of computer vision most projects never reach — **taking a trained model and making it run fast, on real hardware, on real video.**
 
 Detection with **YOLO**, then the deployment layer that decides whether any of it ships: **CUDA** and **TensorRT** for acceleration, **DeepStream** for multi-stream analytics, **Triton** for serving, **OpenVINO** for CPU and VPU targets.
 
-The other half is **LLM systems** â€” self-hosted serving with **vLLM** and **Ollama** on the **Hugging Face** ecosystem, powering chatbots and agentic pipelines that coordinate tools, retrieval and multi-step reasoning.
+The other half is **LLM systems** — self-hosted serving with **vLLM** and **Ollama** on the **Hugging Face** ecosystem, powering chatbots and agentic pipelines that coordinate tools, retrieval and multi-step reasoning.
 
 I deliver this work **freelance**, and publish research alongside it.
 
@@ -50,11 +50,11 @@ I deliver this work **freelance**, and publish research alongside it.
 <td width="38%" valign="top">
 
 <table>
-<tr><td><b>Focus</b></td><td>Real-time vision Â· edge inference</td></tr>
-<tr><td><b>Also</b></td><td>LLM serving Â· agentic pipelines</td></tr>
-<tr><td><b>Hardware</b></td><td>GPU Â· CPU/VPU Â· microcontrollers</td></tr>
+<tr><td><b>Focus</b></td><td>Real-time vision · edge inference</td></tr>
+<tr><td><b>Also</b></td><td>LLM serving · agentic pipelines</td></tr>
+<tr><td><b>Hardware</b></td><td>GPU · CPU/VPU · microcontrollers</td></tr>
 <tr><td><b>Research</b></td><td>4 peer-reviewed papers</td></tr>
-<tr><td><b>Working</b></td><td>Freelance Â· open to collaboration</td></tr>
+<tr><td><b>Working</b></td><td>Freelance · open to collaboration</td></tr>
 </table>
 
 </td>
@@ -63,7 +63,7 @@ I deliver this work **freelance**, and publish research alongside it.
 
 <br/>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• CAPABILITIES â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════ CAPABILITIES ═══════════════════════════ -->
 
 <div align="center"><h2>What I Build</h2></div>
 
@@ -80,7 +80,7 @@ YOLO detection pipelines accelerated with CUDA and TensorRT, running multi-strea
 <td width="33%" valign="top">
 
 #### Model Serving
-Production inference behind application APIs â€” Triton for vision models, vLLM for language models, with versioning and concurrent request handling.
+Production inference behind application APIs — Triton for vision models, vLLM for language models, with versioning and concurrent request handling.
 
 <sub><code>Triton</code> <code>vLLM</code> <code>Docker</code></sub>
 
@@ -124,7 +124,7 @@ Peer-reviewed work on agricultural AI, generative AI and LLMs, and AI in healthc
 
 <br/>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• STACK â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
 
 <div align="center"><h2>Stack</h2></div>
 
@@ -175,19 +175,19 @@ Peer-reviewed work on agricultural AI, generative AI and LLMs, and AI in healthc
 
 <br/>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• PIPELINE â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════ PIPELINE ═══════════════════════════ -->
 
 <div align="center"><h2>Deployment Pipeline</h2></div>
 
 ```mermaid
 flowchart LR
     A["Video<br/><sub>n streams</sub>"] --> B["YOLO<br/><sub>detection</sub>"]
-    B --> C["CUDA Â· TensorRT<br/><sub>fp16 / int8</sub>"]
+    B --> C["CUDA · TensorRT<br/><sub>fp16 / int8</sub>"]
     C --> D{" "}
     D --> E["DeepStream<br/><sub>multi-stream</sub>"]
     D --> F["Triton<br/><sub>serving</sub>"]
-    D --> G["OpenVINO<br/><sub>cpu Â· vpu</sub>"]
-    E --> H["Application<br/><sub>actions Â· alerts</sub>"]
+    D --> G["OpenVINO<br/><sub>cpu · vpu</sub>"]
+    E --> H["Application<br/><sub>actions · alerts</sub>"]
     F --> H
     G --> H
 
@@ -203,7 +203,7 @@ flowchart LR
 
 <br/>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• RESEARCH â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════ RESEARCH ═══════════════════════════ -->
 
 <div align="center">
 
@@ -220,28 +220,28 @@ flowchart LR
 <tr>
 <td width="70%"><a href="https://doi.org/10.1063/5.0240431"><b>Harnessing AI and Machine Learning for Early Identification and Mitigation of Crop Diseases</b></a></td>
 <td width="16%"><img src="https://img.shields.io/badge/First_author-6366F1?style=flat-square&labelColor=0D1117" /></td>
-<td width="14%"><sub>AIP 3188 Â· 2024</sub></td>
+<td width="14%"><sub>AIP 3188 · 2024</sub></td>
 </tr>
 <tr>
 <td><a href="https://www.researchgate.net/profile/Rugved-Jalit"><b>Unlocking the Potential of Generative AI in Large Language Models</b></a></td>
 <td><img src="https://img.shields.io/badge/Co--author-475569?style=flat-square&labelColor=0D1117" /></td>
-<td><sub>Conference Â· 2024</sub></td>
+<td><sub>Conference · 2024</sub></td>
 </tr>
 <tr>
 <td><a href="https://doi.org/10.1063/5.0240432"><b>Artificial Intelligence in Rare Diseases: A Review of Recent Advances</b></a></td>
 <td><img src="https://img.shields.io/badge/Co--author-475569?style=flat-square&labelColor=0D1117" /></td>
-<td><sub>AIP 3188 Â· 2024</sub></td>
+<td><sub>AIP 3188 · 2024</sub></td>
 </tr>
 <tr>
 <td><a href="https://doi.org/10.1063/5.0240706"><b>Empowering Healthcare with NLP: Record Analysis, Monitoring & Drug Discovery</b></a></td>
 <td><img src="https://img.shields.io/badge/Co--author-475569?style=flat-square&labelColor=0D1117" /></td>
-<td><sub>AIP 3188 Â· 2024</sub></td>
+<td><sub>AIP 3188 · 2024</sub></td>
 </tr>
 </table>
 
 <br/>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• FREELANCE â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════ FREELANCE ═══════════════════════════ -->
 
 <div align="center"><h2>Freelance & Client Work</h2></div>
 
@@ -258,7 +258,7 @@ YOLO pipelines optimized with CUDA and TensorRT, deployed through DeepStream for
 <td width="50%" valign="top">
 
 #### Model serving
-Production inference with Triton and vLLM â€” multi-model hosting, versioning and concurrent request handling behind application APIs.
+Production inference with Triton and vLLM — multi-model hosting, versioning and concurrent request handling behind application APIs.
 
 </td>
 </tr>
@@ -279,18 +279,18 @@ Sensor and microcontroller systems feeding inference pipelines and driving downs
 </table>
 
 <!--
-â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
- OPTIONAL â€” add permitted metrics above. Numbers make NDA work
+─────────────────────────────────────────────────────────────
+ OPTIONAL — add permitted metrics above. Numbers make NDA work
  credible without revealing anything:
    "N concurrent streams at M FPS on a single GPU"
    "Reduced inference latency by X% via TensorRT"
  Only add figures you are actually allowed to share.
-â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+─────────────────────────────────────────────────────────────
 -->
 
 <br/>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• ACTIVITY â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════ ACTIVITY ═══════════════════════════ -->
 
 <div align="center">
 
@@ -305,7 +305,7 @@ Sensor and microcontroller systems feeding inference pipelines and driving downs
 
 <br/>
 
-<!-- â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• FOOTER â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â• -->
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 
 <div align="center">
 
@@ -315,7 +315,7 @@ Sensor and microcontroller systems feeding inference pipelines and driving downs
 
 ### Available for freelance and collaboration
 
-Computer vision Â· edge deployment Â· LLM and agentic systems Â· applied research
+Computer vision · edge deployment · LLM and agentic systems · applied research
 
 <br/>
 
