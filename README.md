@@ -1,6 +1,8 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
 
+<img width="100%" src="assets/profile.png" alt="Rugved Jalit" />
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:312E81,100:6366F1&height=3&section=header" />
 
 <br/>
@@ -288,56 +290,16 @@ Sensor and microcontroller systems feeding inference pipelines and driving downs
 
 <br/>
 
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-
-<div align="center">
-
-<h2>Open Source</h2>
-
-<a href="https://github.com/rugvedjalit/AI-based-Drone-for-Precision-Agriculture">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rugvedjalit&repo=AI-based-Drone-for-Precision-Agriculture&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=8B949E&icon_color=8B5CF6" />
-</a>
-<a href="https://github.com/rugvedjalit/Deep-Learning-based-Crop-Classification-using-CNN-Architecture">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rugvedjalit&repo=Deep-Learning-based-Crop-Classification-using-CNN-Architecture&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=8B949E&icon_color=8B5CF6" />
-</a>
-<a href="https://github.com/rugvedjalit/Acridinium-Ester-based-Bacterial-Detection-with-Arduino">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rugvedjalit&repo=Acridinium-Ester-based-Bacterial-Detection-with-Arduino&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=8B949E&icon_color=8B5CF6" />
-</a>
-<a href="https://github.com/rugvedjalit/Machine-Learning-Practice">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rugvedjalit&repo=Machine-Learning-Practice&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=8B949E&icon_color=8B5CF6" />
-</a>
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>All repositories</b></summary>
-
-<br/>
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[AI Drone for Precision Agriculture](https://github.com/rugvedjalit/AI-based-Drone-for-Precision-Agriculture)** | Crop monitoring, vegetation analysis and soil mapping — CNN for crop health assessment, Firebase for data management. | `CNN` `Firebase` `UAV` |
-| **[Crop Classification — CNN](https://github.com/rugvedjalit/Deep-Learning-based-Crop-Classification-using-CNN-Architecture)** | Classifies crop health from imagery, separating healthy crops from viral and bacterial disease states. | `Deep Learning` `Jupyter` |
-| **[Acridinium Ester Bacterial Detection](https://github.com/rugvedjalit/Acridinium-Ester-based-Bacterial-Detection-with-Arduino)** | Arduino system detecting bacterial presence via chemiluminescence. | `C++` `Arduino` |
-| **[Car Price Prediction](https://github.com/rugvedjalit/Linear-Regression)** | Regression on a US vehicle dataset using mileage, model year and brand. | `Regression` `Python` |
-| **[ML Practice](https://github.com/rugvedjalit/Machine-Learning-Practice)** | Notebook collection across machine learning techniques. | `Jupyter` `Python` |
-
-</details>
-
-<br/>
-
 <!-- ═══════════════════════════ ACTIVITY ═══════════════════════════ -->
 
 <div align="center">
 
 <h2>Activity</h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rugvedjalit&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=8B949E&icon_color=8B5CF6" />
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugvedjalit&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=8B949E" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rugvedjalit&theme=tokyonight" alt="GitHub contributions" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rugvedjalit&bg_color=0D1117&color=8B949E&line=6366F1&point=22D3EE&area=true&area_color=312E81&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rugvedjalit&theme=tokyonight" alt="GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rugvedjalit&theme=tokyonight" alt="Top languages by commit" />
 
 </div>
 
